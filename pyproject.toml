@@ -1,0 +1,17 @@
+[project]
+name = "gridlearn2"
+version = "0.1.0"
+requires-python = ">= 3.14.7"
+dependencies = [
+    "gridstatusio>=0.16.1",
+    "highspy>=1.15.1",
+    "linopy>=0.10.0",
+    "numpy>=2.5.3",
+    "pandas>=3.0.6",
+    "pypsa>=1.4.0",
+    "scikit-learn>=1.9.1",
+    "scipy>=1.18.1",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.15.0",
+    "tomli>=2.5.0",
+]
